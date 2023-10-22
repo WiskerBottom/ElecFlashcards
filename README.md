@@ -1,7 +1,7 @@
 # ElecFlashcards
 A simple program to create and use flashcards
 
-I never ended up using the program much, so it probably has some strange bugs I never encountered. I never added a feature to edit already existing flashcard files, but since it stores all of its flashcards as text files they should be easy to edit yourself. the files follow this format
+I never ended up using the program much, so it probably has some strange bugs I never encountered. I never added a feature to edit already existing flashcard files, but since it stores all of its flashcards as text files they should be easy to edit yourself. the files follow this format:
 
 //start
 
